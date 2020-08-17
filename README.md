@@ -20,7 +20,7 @@
 [![](https://img.shields.io/badge/-Redis-D92B21?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org)
 
-[![](https://img.shields.io/badge/-Github-24292E?style=flat-square&logo=github&logoColor=ffffff)](https://github.com)
+[![](https://img.shields.io/badge/-GitHub-24292E?style=flat-square&logo=github&logoColor=ffffff)](https://github.com)
 [![](https://img.shields.io/badge/-GitLab-392A66?style=flat-square&logo=gitlab&logoColor=ffffff)](https://gitlab.com)
 [![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
 
