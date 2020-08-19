@@ -1,5 +1,5 @@
 <p>
-  <img src="http://pic.lvlv.tech/uPic/asuka.gif">
+  <img src="https://raw.githubusercontent.com/NERVEbing/NERVEbing/master/asuka.gif">
 </p>
 
 #### Platform&Tools
