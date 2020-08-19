@@ -8,7 +8,7 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-purple?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com)
 
 [![](https://img.shields.io/badge/-Go-7FD5EA?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org)
-[![](https://img.shields.io/badge/-php-8892BF?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net)
+[![](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net)
 [![](https://img.shields.io/badge/-JavaScript-F7DF1D?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com)
 [![](https://img.shields.io/badge/-Bash-320927?style=flat-square&logo=GNU-bash&logoColor=ffffff)](https://www.gnu.org/software/bash)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org)
