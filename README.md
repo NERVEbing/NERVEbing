@@ -2,28 +2,39 @@
   <img src="https://raw.githubusercontent.com/NERVEbing/NERVEbing/master/asuka.gif">
 </p>
 
-#### Platform&Tools
-[![](https://img.shields.io/badge/OS-Debian-D70851?style=flat-square&logo=debian&logoColor=ffffff)](https://www.debian.org)
-[![](https://img.shields.io/badge/macOS-Catalina-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com)
-[![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-purple?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com)
+![Debian](https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)
+![Mac OS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)
 
-[![](https://img.shields.io/badge/-Go-7FD5EA?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org)
-[![](https://img.shields.io/badge/-PHP-8892BF?style=flat-square&logo=php&logoColor=ffffff)](https://www.php.net)
-[![](https://img.shields.io/badge/-JavaScript-F7DF1D?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com)
-[![](https://img.shields.io/badge/-Bash-320927?style=flat-square&logo=GNU-bash&logoColor=ffffff)](https://www.gnu.org/software/bash)
-[![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=ffffff)](https://www.markdownguide.org)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?logo=vim&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)
 
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+![Shell Script](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)
 
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com)
-[![](https://img.shields.io/badge/-kubernetes-326DE6?style=flat-square&logo=kubernetes&logoColor=ffffff)](https://kubernetes.io)
-[![](https://img.shields.io/badge/-MySQL-1A7497?style=flat-square&logo=mysql&logoColor=ffffff)](https://www.mysql.com)
-[![](https://img.shields.io/badge/-Redis-D92B21?style=flat-square&logo=redis&logoColor=ffffff)](https://redis.io)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white)
 
-[![](https://img.shields.io/badge/-GitHub-24292E?style=flat-square&logo=github&logoColor=ffffff)](https://github.com)
-[![](https://img.shields.io/badge/-GitLab-392A66?style=flat-square&logo=gitlab&logoColor=ffffff)](https://gitlab.com)
-[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 
-#### Console&Game
-[![](https://img.shields.io/badge/-PlayStation%204-0070d1?style=flat-square&logo=playstation&logoColor=ffffff)](https://psnine.com/psnid/Nervebing)
-[![](https://img.shields.io/badge/Steam-020202?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/NERVEbing)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/Gitlab-%23181717.svg?logo=gitlab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)
+
+![GitLab CI](https://img.shields.io/badge/CICD-%23181717.svg?logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/Github%20Actions-%232671E5.svg?logo=githubactions&logoColor=white)
+
+![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?logo=playstation-4&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)
