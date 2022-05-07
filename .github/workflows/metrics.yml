@@ -17,3 +17,6 @@ jobs:
           plugin_habits_facts: no
           plugin_habits_charts: yes
           config_timezone: Asia/Shanghai
+          plugin_music: yes
+          plugin_music_playlist: https://embed.music.apple.com/cn/playlist/j-s-bach-essentials/pl.4cc4518c3d7e4f4a8a80a6408911a7b1
+          plugin_music_limit: 2
