@@ -38,3 +38,5 @@
 ![Playstation 4](https://img.shields.io/badge/Playstation%204-003791?logo=playstation-4&logoColor=white)
 ![Switch](https://img.shields.io/badge/Switch-E60012?logo=nintendo-switch&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-%23000000.svg?logo=steam&logoColor=white)
+
+![Metrics](/github-metrics.svg)
