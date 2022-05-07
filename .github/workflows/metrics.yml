@@ -15,6 +15,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           plugin_lines: yes
+          plugin_topics: yes
+          plugin_topics_limit: 12
           plugin_habits: yes
           plugin_habits_facts: no
           plugin_habits_charts: yes
