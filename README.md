@@ -29,9 +29,9 @@
 
 ### Github Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NERVEbing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/NERVEbing)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NERVEbing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true)](https://github.com/NERVEbing?tab=repositories)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=NERVEbing&layout=compact&theme=buefy&hide_border=true)](https://github.com/NERVEbing)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=NERVEbing&layout=compact&theme=buefy&hide_border=true)](https://github.com/NERVEbing?tab=repositories)
 
 ### Listening
 
