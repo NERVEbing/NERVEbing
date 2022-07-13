@@ -41,6 +41,10 @@
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Rust 构建 gRPC 微服务](https://lvlv.fun/posts/2022-05-30/)
+- [JavaScript 批量删除 Bilibili 动态](https://lvlv.fun/posts/2022-05-21/)
+- [基于 HPE MicroServer Gen10 Plus 的 HomeLab 搭建 - 硬件篇](https://lvlv.fun/posts/2022-05-08/)
+- [MySQL/innoDB 内部实现](https://lvlv.fun/posts/2019-10-29/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Page Counts
