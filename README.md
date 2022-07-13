@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cliff Lyu</h1>
 <h3 align="center">A free software developer</h3>
 
----
-
 ### About me
 
 - 📝 I regularly write articles on [https://lvlv.fun](https://lvlv.fun)
 
 - 📫 How to reach me [nervebing@icloud.com](mailto:nervebing@icloud.com)
 
-### > Connect with me:
+### Connect with me:
 
 <a href="https://github.com/NERVEbing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NERVEbing" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="NERVEbing" height="30" width="40" /></a>
