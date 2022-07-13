@@ -36,7 +36,7 @@
 
 ### Listening
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yked4cegrz6ytwlm33ldcqspri&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yked4cegrz6ytwlm33ldcqspri&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 ### Blog Posts
 
