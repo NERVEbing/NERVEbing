@@ -4,9 +4,9 @@
 
 ### About me
 
-- 📝 I regularly write articles on [https://lvlv.fun](https://lvlv.fun)
+- 📝 I regularly write articles on *[lvlv.fun](https://lvlv.fun)*
 
-- 📫 How to reach me [nervebing@icloud.com](mailto:nervebing@icloud.com)
+- 📫 How to reach me *[nervebing@icloud.com](mailto:nervebing@icloud.com)*
 
 ### Connect with me
 
