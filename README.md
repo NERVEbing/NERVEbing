@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-top: 2rem">Hi 👋, I'm Cliff Lyu</h1>
+<h1 align="center">Hi 👋, I'm Cliff Lyu</h1>
 <h3 align="center">A free software developer 🤖️</h3>
 
 ### About me
