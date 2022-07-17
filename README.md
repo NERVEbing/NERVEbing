@@ -36,10 +36,6 @@
 
 [![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=NERVEbing&layout=compact&hide_border=true&hide_title=true&hide=html,css)](https://github.com/NERVEbing?tab=repositories)
 
-### Listening
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yked4cegrz6ytwlm33ldcqspri&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
-
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -49,6 +45,10 @@
 - [MySQL/innoDB 内部实现](https://lvlv.fun/posts/2019-10-29/)
 - [gRPC Connection reset by peer 问题](https://lvlv.fun/posts/2019-07-22/)
 <!-- BLOG-POST-LIST:END -->
+
+### Listening
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yked4cegrz6ytwlm33ldcqspri&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
 
 ### Page Counts
 
