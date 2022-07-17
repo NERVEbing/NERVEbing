@@ -10,12 +10,12 @@
 
 ### Connect with me
 
-<a href="https://github.com/NERVEbing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NERVEbing" height="30" width="40" /></a>
-<a href="https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="NERVEbing" height="30" width="40" /></a>
-<a href="https://twitter.com/nervebing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nervebing" height="30" width="40" /></a>
-<a href="https://fb.com/nervebing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nervebing" height="30" width="40" /></a>
-<a href="https://instagram.com/cliff.lyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cliff.lyu" height="30" width="40" /></a>
-<a href="https://lvlv.fun/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://lvlv.fun/index.xml" height="30" width="40" /></a>
+<a href="https://github.com/NERVEbing" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="NERVEbing" height="30" width="40" /></a>
+<a href="https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="NERVEbing" height="30" width="40" /></a>
+<a href="https://twitter.com/nervebing" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nervebing" height="30" width="40" /></a>
+<a href="https://fb.com/nervebing" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nervebing" height="30" width="40" /></a>
+<a href="https://instagram.com/cliff.lyu" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cliff.lyu" height="30" width="40" /></a>
+<a href="https://lvlv.fun/index.xml" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://lvlv.fun/index.xml" height="30" width="40" /></a>
 
 ### Languages and Tools
 
