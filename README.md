@@ -47,7 +47,7 @@
 
 ### Listening
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yked4cegrz6ytwlm33ldcqspri&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
+[![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31yked4cegrz6ytwlm33ldcqspri&count=5&unique=true)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
 
 ### WakaTime Statistics
 
