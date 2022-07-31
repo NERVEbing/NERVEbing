@@ -57,3 +57,5 @@
 ### Page Counts
 
 ![github-profile-views-counter](https://komarev.com/ghpvc/?username=NERVEbing&label=Profile%20views&color=ff69b4&style=for-the-badge)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer)
