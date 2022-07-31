@@ -23,4 +23,3 @@ jobs:
           SHOW_PROJECTS: false
           SHOW_TIMEZONE: false
           SHOW_OS: false
-          SHOW_LINES_OF_CODE: true
