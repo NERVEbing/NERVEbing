@@ -35,6 +35,11 @@
 
 [![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=NERVEbing&layout=compact&hide_border=true&hide_title=true&hide=html,css)](https://github.com/NERVEbing?tab=repositories)
 
+### WakaTime
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
