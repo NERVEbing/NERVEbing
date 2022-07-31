@@ -35,6 +35,10 @@
 
 [![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=NERVEbing&layout=compact&hide_border=true&hide_title=true&hide=html,css)](https://github.com/NERVEbing?tab=repositories)
 
+### Listening
+
+[![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31yked4cegrz6ytwlm33ldcqspri&count=3&unique=true)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
+
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -44,10 +48,6 @@
 - [MySQL/innoDB 内部实现](https://lvlv.fun/posts/2019-10-29/)
 - [gRPC Connection reset by peer 问题](https://lvlv.fun/posts/2019-07-22/)
 <!-- BLOG-POST-LIST:END -->
-
-### Listening
-
-[![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31yked4cegrz6ytwlm33ldcqspri&count=5&unique=true)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
 
 ### WakaTime Statistics
 
