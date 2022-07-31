@@ -100,7 +100,7 @@ Mac                      10 hrs 11 mins      ███████████�
 ![Chart not found](https://raw.githubusercontent.com/NERVEbing/NERVEbing/master/charts/bar_graph.png) 
 
 
- Last Updated on 31/07/2022 14:59:40 UTC
+ Last Updated on 31/07/2022 15:01:38 UTC
 <!--END_SECTION:waka-->
 
 ### Page Counts
