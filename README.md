@@ -52,6 +52,12 @@
 ### WakaTime Statistics
 
 <!--START_SECTION:waka-->
+
+```text
+Go           9 hrs 44 mins   ████████████████████████░   95.57 %
+Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+```
+
 <!--END_SECTION:waka-->
 
 ### Page Counts
