@@ -35,17 +35,6 @@
 
 [![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=NERVEbing&layout=compact&hide_border=true&hide_title=true&hide=html,css)](https://github.com/NERVEbing?tab=repositories)
 
-### WakaTime
-
-<!--START_SECTION:waka-->
-
-```text
-Go           9 hrs 44 mins   ████████████████████████░   95.57 %
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-```
-
-<!--END_SECTION:waka-->
-
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -59,6 +48,11 @@ Other        26 mins         █░░░░░░░░░░░░░░░░
 ### Listening
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31yked4cegrz6ytwlm33ldcqspri&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
+
+### WakaTime Statistics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Page Counts
 
