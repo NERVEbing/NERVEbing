@@ -21,3 +21,4 @@ jobs:
           SHOW_SHORT_INFO: false
           SHOW_LANGUAGE_PER_REPO: false
           SHOW_PROJECTS: false
+          SHOW_LINES_OF_CODE: false
