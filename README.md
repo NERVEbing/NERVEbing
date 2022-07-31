@@ -37,7 +37,7 @@
 
 ### Listening
 
-[![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31yked4cegrz6ytwlm33ldcqspri&count=5&unique=true&width=320)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
+[![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31yked4cegrz6ytwlm33ldcqspri&count=3&unique=true&width=300)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
 
 ### Blog Posts
 
