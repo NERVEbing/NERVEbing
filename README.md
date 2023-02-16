@@ -79,16 +79,15 @@ Sunday          58 commits       ██░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     7 mins              ████████████████████████░   95.76 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 15/02/2023 16:50:43 UTC
+ Last Updated on 16/02/2023 02:07:57 UTC
 <!--END_SECTION:waka-->
 
 ### Page Counts
