@@ -77,16 +77,14 @@ Sunday                   155 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     3 mins              ████████████████░░░░░░░░░   62.31 % 
-CSS                      2 mins              █████████░░░░░░░░░░░░░░░░   37.50 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 06/08/2024 16:42:12 UTC
+ Last Updated on 07/08/2024 01:48:31 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/b4cec690-e55c-4ccf-8cd6-7b05c5a679ed.svg)](https://wakatime.com/@b4cec690-e55c-4ccf-8cd6-7b05c5a679ed)
