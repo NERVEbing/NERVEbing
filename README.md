@@ -77,17 +77,14 @@ Sunday                   155 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     14 mins             ████████████████░░░░░░░░░   62.96 % 
-SSH Config               7 mins              ████████░░░░░░░░░░░░░░░░░   33.93 % 
-TOML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  22 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2024 16:46:22 UTC
+ Last Updated on 16/10/2024 02:06:05 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/b4cec690-e55c-4ccf-8cd6-7b05c5a679ed.svg)](https://wakatime.com/@b4cec690-e55c-4ccf-8cd6-7b05c5a679ed)
