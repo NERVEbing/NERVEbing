@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on *[lvlv.fun](https://lvlv.fun)*
 
-- 📫 How to reach me *[nervebing@icloud.com](mailto:nervebing@icloud.com)*
+- 📫 How to reach me *[lc91926@gmail.com](mailto:lc91926@gmail.com)*
 
 ### Connect with me
 
@@ -38,16 +38,6 @@
 ### Listening
 
 [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31yked4cegrz6ytwlm33ldcqspri&count=3&unique=true&width=300)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
-
-### Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [使用 Rust 构建 gRPC 微服务](https://lvlv.fun/posts/2022-05-30/)
-- [JavaScript 批量删除 Bilibili 动态](https://lvlv.fun/posts/2022-05-21/)
-- [基于 HPE MicroServer Gen10 Plus 的 HomeLab 搭建 - 硬件篇](https://lvlv.fun/posts/2022-05-08/)
-- [MySQL/innoDB 内部实现](https://lvlv.fun/posts/2019-10-29/)
-- [gRPC Connection reset by peer 问题](https://lvlv.fun/posts/2019-07-22/)
-<!-- BLOG-POST-LIST:END -->
 
 ### WakaTime Statistics
 
