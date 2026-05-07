@@ -27,14 +27,6 @@
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 
-### Github Stats
-
-[![gitHub-readme-stats](https://github-readme-stats.vercel.app/api?username=NERVEbing&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide_title=true&count_private=true)](https://github.com/NERVEbing?tab=repositories)
-
-### Top Languages
-
-[![github-readme-stats-top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=NERVEbing&layout=compact&hide_border=true&hide_title=true&hide=html,css)](https://github.com/NERVEbing?tab=repositories)
-
 ### Listening
 
 [![spotify-recently-played-readme](https://spotify-recently-played-readme.vercel.app/api?user=31yked4cegrz6ytwlm33ldcqspri&count=3&unique=true&width=300)](https://open.spotify.com/user/31yked4cegrz6ytwlm33ldcqspri)
