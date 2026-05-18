@@ -42,8 +42,44 @@
 ### WakaTime Statistics
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 17/05/2026 17:33:31 UTC
+```text
+🌞 Morning                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+🌆 Daytime                479 commits         ████████░░░░░░░░░░░░░░░░░   32.08 % 
+🌃 Evening                500 commits         ████████░░░░░░░░░░░░░░░░░   33.49 % 
+🌙 Night                  365 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Tuesday                  246 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Wednesday                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+Thursday                 212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Friday                   165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Saturday                 229 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.34 % 
+Sunday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 3 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   31.13 % 
+YAML                     2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+Bash                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Other                    1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Python                   1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+
+🔥 Editors: 
+VS Code                  12 hrs 25 mins      ████████████████████████░   97.14 % 
+Unknown Editor           21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+ Last Updated on 18/05/2026 04:51:13 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/b4cec690-e55c-4ccf-8cd6-7b05c5a679ed.svg)](https://wakatime.com/@b4cec690-e55c-4ccf-8cd6-7b05c5a679ed)
