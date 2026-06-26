@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on *[lvlv.fun](https://lvlv.fun)*
 
-- 📫 How to reach me *[lc91926@gmail.com](mailto:lc91926@gmail.com)*
+- 📫 How to reach me *[nervebing@gmail.com](mailto:nervebing@gmail.com)*
 
 ### Connect with me
 
