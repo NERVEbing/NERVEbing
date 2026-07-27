@@ -42,6 +42,8 @@
 ### WakaTime Statistics
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-335%20hrs%2054%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -81,8 +83,34 @@ Copilot CLI              50 mins             █░░░░░░░░░░�
 Antigravity CLI          20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 11:52:50 UTC
+```text
+⏱ AI Coding Time: 27 hrs 17 mins (82.12%)
+
+✍️ 28,986 lines written by AI, 389 lines written by hand (98.68% AI-written)
+
+🔤 1,038,454,584 Input Tokens, 3,567,230 Output Tokens
+
+💵 $2819.14 Estimated AI Cost This Week
+
+🧠 80 AI Sessions, 316 AI Prompts
+
+GPT                      16,541 lines        █████████████░░░░░░░░░░░░   52.28 % 
+Sonnet                   15,045 lines        ████████████░░░░░░░░░░░░░   47.55 % 
+Gemini                   54 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.68% of written lines came from AI
+📚 Verbose Prompter — average 1,620 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 2.3% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 18:07:16 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/b4cec690-e55c-4ccf-8cd6-7b05c5a679ed.svg)](https://wakatime.com/@b4cec690-e55c-4ccf-8cd6-7b05c5a679ed)
