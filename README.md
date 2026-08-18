@@ -42,7 +42,7 @@
 ### WakaTime Statistics
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-397%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-399%20hrs%2033%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -69,48 +69,48 @@ Sunday                   187 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     9 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   38.91 % 
-Markdown                 5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-Other                    3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-TypeScript               3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-Bash                     1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+YAML                     11 hrs 29 mins      ██████████░░░░░░░░░░░░░░░   40.72 % 
+Other                    4 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Markdown                 4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               4 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Bash                     1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 15 mins      ███████████░░░░░░░░░░░░░░   44.23 % 
-Codex CLI                8 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   34.18 % 
-Claude Code              3 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Copilot CLI              1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Antigravity CLI          30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+VS Code                  13 hrs 41 mins      ████████████░░░░░░░░░░░░░   48.49 % 
+Codex CLI                8 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Claude Code              3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Copilot CLI              53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 18 mins (68.0%)
+⏱ AI Coding Time: 18 hrs 26 mins (65.33%)
 
-✍️ 8,952 lines written by AI, 622 lines written by hand (93.5% AI-written)
+✍️ 18,689 lines written by AI, 785 lines written by hand (95.97% AI-written)
 
-🔤 12,207,880 Input Tokens, 1,418,645 Output Tokens
+🔤 13,828,555 Input Tokens, 1,700,118 Output Tokens
 
-💵 $228.95 Estimated AI Cost This Week
+💵 $256.56 Estimated AI Cost This Week
 
-🧠 46 AI Sessions, 183 AI Prompts
+🧠 48 AI Sessions, 196 AI Prompts
 
-GPT                      7,441 lines         ████████████████████░░░░░   78.16 % 
-Opus                     2,079 lines         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
+Opus                     11,873 lines        ███████████████░░░░░░░░░░   61.16 % 
+GPT                      7,541 lines         ██████████░░░░░░░░░░░░░░░   38.84 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Github-Copilot-Cli       0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.5% of written lines came from AI
-📚 Verbose Prompter — average 1,590 characters per prompt
+🤖 AI-Driven — 95.97% of written lines came from AI
+📄 Detailed Prompter — average 1,433 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 17.3% of changed lines were hand-edited
+🚀 High AI Trust — 11.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 16:56:59 UTC
+ Last Updated on 18/08/2026 01:59:01 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/b4cec690-e55c-4ccf-8cd6-7b05c5a679ed.svg)](https://wakatime.com/@b4cec690-e55c-4ccf-8cd6-7b05c5a679ed)
