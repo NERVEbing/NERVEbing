@@ -69,47 +69,48 @@ Sunday                   187 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     6 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Other                    5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   20.70 % 
-Markdown                 4 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-TypeScript               2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Go                       1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
+Other                    5 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
+YAML                     4 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.32 % 
+Markdown                 3 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Bash                     2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
 
 🔥 Editors: 
-Codex CLI                10 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   41.83 % 
-VS Code                  9 hrs 56 mins       ██████████░░░░░░░░░░░░░░░   40.64 % 
-Claude Code              3 hrs 51 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Antigravity CLI          1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  10 hrs 46 mins      ███████████░░░░░░░░░░░░░░   45.22 % 
+Codex CLI                9 hrs 46 mins       ██████████░░░░░░░░░░░░░░░   41.00 % 
+Claude Code              2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Copilot CLI              40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Codex Vscode             24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 54 mins (69.13%)
+⏱ AI Coding Time: 16 hrs 13 mins (68.09%)
 
-✍️ 32,622 lines written by AI, 696 lines written by hand (97.91% AI-written)
+✍️ 22,619 lines written by AI, 1,771 lines written by hand (92.74% AI-written)
 
-🔤 11,039,083 Input Tokens, 1,684,828 Output Tokens
+🔤 16,619,305 Input Tokens, 1,484,651 Output Tokens
 
-💵 $220.49 Estimated AI Cost This Week
+💵 $325.67 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 169 AI Prompts
+🧠 34 AI Sessions, 199 AI Prompts
 
-GPT                      21,324 lines        ████████████████░░░░░░░░░   64.23 % 
-Opus                     11,873 lines        █████████░░░░░░░░░░░░░░░░   35.77 % 
+GPT                      22,121 lines        ████████████████████████░   95.54 % 
+Opus                     1,033 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.91% of written lines came from AI
-📚 Verbose Prompter — average 1,985 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.04% of changed lines were hand-edited
+🤖 AI-Driven — 92.74% of written lines came from AI
+📚 Verbose Prompter — average 1,723 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 12.49% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 16:57:19 UTC
+ Last Updated on 20/08/2026 02:01:26 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/b4cec690-e55c-4ccf-8cd6-7b05c5a679ed.svg)](https://wakatime.com/@b4cec690-e55c-4ccf-8cd6-7b05c5a679ed)
