@@ -69,47 +69,46 @@ Sunday                   187 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    12 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   32.72 % 
-Markdown                 6 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.80 % 
-YAML                     5 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Go                       2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-Bash                     2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+Other                    10 hrs 10 mins      ███████░░░░░░░░░░░░░░░░░░   28.22 % 
+Markdown                 7 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
+YAML                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Bash                     3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
+TOML                     2 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
 
 🔥 Editors: 
-Codex CLI                23 hrs 10 mins      ███████████████░░░░░░░░░░   59.84 % 
-VS Code                  12 hrs 22 mins      ████████░░░░░░░░░░░░░░░░░   31.97 % 
-Claude Code              2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-Antigravity CLI          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Codex CLI                21 hrs 4 mins       ███████████████░░░░░░░░░░   58.46 % 
+VS Code                  11 hrs 52 mins      ████████░░░░░░░░░░░░░░░░░   32.95 % 
+Claude Code              3 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 30 hrs 57 mins (79.95%)
+⏱ AI Coding Time: 28 hrs 16 mins (78.44%)
 
-✍️ 44,516 lines written by AI, 862 lines written by hand (98.1% AI-written)
+✍️ 27,119 lines written by AI, 817 lines written by hand (97.08% AI-written)
 
-🔤 18,507,215 Input Tokens, 3,151,361 Output Tokens
+🔤 17,739,213 Input Tokens, 2,599,205 Output Tokens
 
-💵 $379.97 Estimated AI Cost This Week
+💵 $312.06 Estimated AI Cost This Week
 
-🧠 50 AI Sessions, 477 AI Prompts
+🧠 56 AI Sessions, 471 AI Prompts
 
-GPT                      43,685 lines        ███████████████████████░░   93.97 % 
-Opus                     2,175 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-Codex-Cli                627 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+GPT                      26,370 lines        ███████████████████████░░   90.75 % 
+Opus                     2,688 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.1% of written lines came from AI
-📝 Concise Prompter — average 193 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.68% of changed lines were hand-edited
+🤖 AI-Driven — 97.08% of written lines came from AI
+📝 Concise Prompter — average 204 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 5.59% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/08/2026 10:11:09 UTC
+ Last Updated on 28/08/2026 01:05:11 UTC
 <!--END_SECTION:waka-->
 
 [![wakatime](https://wakatime.com/badge/user/b4cec690-e55c-4ccf-8cd6-7b05c5a679ed.svg)](https://wakatime.com/@b4cec690-e55c-4ccf-8cd6-7b05c5a679ed)
