@@ -1,13 +1,17 @@
-name: Waka Readme
+name: Update WakaTime stats
 
 on:
   schedule:
-    - cron: "30 */8 * * *"
+    - cron: "30 2 * * *"
+  workflow_dispatch:
 
 jobs:
   update-readme:
-    name: Update Readme with Metrics
+    name: Update README
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
@@ -21,3 +25,4 @@ jobs:
           SHOW_TIMEZONE: false
           SHOW_OS: false
           SHOW_LOC_CHART: false
+          SHOW_AI_CODE_TIME: false
