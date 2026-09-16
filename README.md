@@ -38,40 +38,40 @@ Sunday                   187 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 9 hrs 7 mins        ████████░░░░░░░░░░░░░░░░░   33.03 % 
-YAML                     5 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
-Go                       4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-JavaScript               2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-Other                    1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Markdown                 6 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+YAML                     4 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Go                       2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JavaScript               1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Other                    1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 🔥 Editors: 
-Codex CLI                19 hrs 47 mins      ██████████████████░░░░░░░   71.65 % 
-VS Code                  7 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.86 % 
-Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Codex CLI                15 hrs 34 mins      █████████████████░░░░░░░░   68.48 % 
+VS Code                  7 hrs 2 mins        ████████░░░░░░░░░░░░░░░░░   30.93 % 
+Antigravity CLI          8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 hrs 24 mins (84.71%)
+⏱ AI Coding Time: 18 hrs 42 mins (82.26%)
 
-✍️ 23,663 lines written by AI, 781 lines written by hand (96.8% AI-written)
+✍️ 7,043 lines written by AI, 854 lines written by hand (89.19% AI-written)
 
-🔤 26,446,439 Input Tokens, 2,595,767 Output Tokens
+🔤 15,885,186 Input Tokens, 1,820,023 Output Tokens
 
-💵 $315.63 Estimated AI Cost This Week
+💵 $189.99 Estimated AI Cost This Week
 
-🧠 101 AI Sessions, 410 AI Prompts
+🧠 86 AI Sessions, 352 AI Prompts
 
-GPT                      25,278 lines        █████████████████████████   100.00 % 
+GPT                      7,400 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.8% of written lines came from AI
-📄 Detailed Prompter — average 619 characters per prompt
+🤖 AI-Driven — 89.19% of written lines came from AI
+📄 Detailed Prompter — average 668 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 5.66% of changed lines were hand-edited
+🚀 High AI Trust — 18.87% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 08:00:01 UTC
+ Last Updated on 16/09/2026 07:53:28 UTC
 <!--END_SECTION:waka-->
