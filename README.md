@@ -38,46 +38,46 @@ Sunday                   189 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 10 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   26.74 % 
-YAML                     6 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-Python                   4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Other                    4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-JavaScript               2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+Markdown                 12 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+YAML                     6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
+Other                    5 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+Python                   4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+JavaScript               2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
 
 🔥 Editors: 
-Codex CLI                20 hrs 6 mins       ████████████░░░░░░░░░░░░░   49.24 % 
-VS Code                  14 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   34.73 % 
-Copilot CLI              4 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Copilot                  2 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Codex CLI                20 hrs 56 mins      █████████████░░░░░░░░░░░░   50.32 % 
+VS Code                  16 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   39.42 % 
+Copilot CLI              2 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+Copilot                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
 Antigravity CLI          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 hrs 48 mins (87.68%)
+⏱ AI Coding Time: 33 hrs 8 mins (79.66%)
 
-✍️ 16,945 lines written by AI, 913 lines written by hand (94.89% AI-written)
+✍️ 16,178 lines written by AI, 1,254 lines written by hand (92.81% AI-written)
 
-🔤 29,893,717 Input Tokens, 5,634,529 Output Tokens
+🔤 22,165,211 Input Tokens, 5,604,154 Output Tokens
 
-💵 $273.83 Estimated AI Cost This Week
+💵 $224.71 Estimated AI Cost This Week
 
-🧠 78 AI Sessions, 262 AI Prompts
+🧠 78 AI Sessions, 251 AI Prompts
 
-GPT                      12,416 lines        ██████████████████░░░░░░░   72.05 % 
-Opus                     4,783 lines         ███████░░░░░░░░░░░░░░░░░░   27.75 % 
-Sonnet                   34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+GPT                      11,898 lines        ██████████████████░░░░░░░   72.35 % 
+Opus                     4,512 lines         ███████░░░░░░░░░░░░░░░░░░   27.44 % 
+Sonnet                   34 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.89% of written lines came from AI
-📄 Detailed Prompter — average 784 characters per prompt
+🤖 AI-Driven — 92.81% of written lines came from AI
+📄 Detailed Prompter — average 847 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 7.8% of changed lines were hand-edited
+🚀 High AI Trust — 11.34% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 08:50:52 UTC
+ Last Updated on 30/10/2026 08:54:47 UTC
 <!--END_SECTION:waka-->
