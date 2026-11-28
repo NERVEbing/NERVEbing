@@ -16,21 +16,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-🌆 Daytime                549 commits         ████████░░░░░░░░░░░░░░░░░   32.01 % 
-🌃 Evening                561 commits         ████████░░░░░░░░░░░░░░░░░   32.71 % 
-🌙 Night                  380 commits         ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+🌞 Morning                225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+🌆 Daytime                549 commits         ████████░░░░░░░░░░░░░░░░░   31.97 % 
+🌃 Evening                563 commits         ████████░░░░░░░░░░░░░░░░░   32.79 % 
+🌙 Night                  380 commits         ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-Wednesday                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Thursday                 230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Friday                   207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
-Saturday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Sunday                   195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+Monday                   247 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Tuesday                  267 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Wednesday                299 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+Thursday                 230 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Saturday                 270 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
+Sunday                   195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
@@ -38,43 +38,43 @@ Sunday                   195 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     9 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   29.26 % 
-Other                    8 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Markdown                 6 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
-Python                   2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Text                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+YAML                     9 hrs 25 mins       ███████░░░░░░░░░░░░░░░░░░   27.11 % 
+Markdown                 8 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
+Other                    7 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Bash                     2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Text                     2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 57 mins      ████████████░░░░░░░░░░░░░   49.81 % 
-Codex CLI                12 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   35.85 % 
-Copilot CLI              3 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Copilot                  1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+VS Code                  18 hrs 38 mins      █████████████░░░░░░░░░░░░   53.67 % 
+Codex CLI                12 hrs 50 mins      █████████░░░░░░░░░░░░░░░░   36.96 % 
+Copilot CLI              2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Copilot                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 24 hrs 3 mins (70.62%)
+⏱ AI Coding Time: 23 hrs 52 mins (68.72%)
 
-✍️ 8,258 lines written by AI, 957 lines written by hand (89.61% AI-written)
+✍️ 6,591 lines written by AI, 1,022 lines written by hand (86.58% AI-written)
 
-🔤 52,892,834 Input Tokens, 7,906,381 Output Tokens
+🔤 142,501,317 Input Tokens, 18,119,470 Output Tokens
 
-💵 $1006.08 Estimated AI Cost This Week
+💵 $1742.16 Estimated AI Cost This Week
 
-🧠 44 AI Sessions, 221 AI Prompts
+🧠 42 AI Sessions, 220 AI Prompts
 
-Opus                     4,379 lines         █████████████░░░░░░░░░░░░   50.75 % 
-GPT                      4,250 lines         ████████████░░░░░░░░░░░░░   49.25 % 
+GPT                      6,410 lines         ███████████████████████░░   92.39 % 
+Opus                     528 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 89.61% of written lines came from AI
-📄 Detailed Prompter — average 562 characters per prompt
+🤖 AI-Driven — 86.58% of written lines came from AI
+📄 Detailed Prompter — average 532 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 17.98% of changed lines were hand-edited
+🚀 High AI Trust — 22.04% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/11/2026 11:19:05 UTC
+ Last Updated on 28/11/2026 10:47:28 UTC
 <!--END_SECTION:waka-->
